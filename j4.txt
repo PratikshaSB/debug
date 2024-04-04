@@ -1,0 +1,13 @@
+class java
+{
+   string name ="raghav"
+     int marks=67;
+  if (marks >=60)
+{
+     system.out.println("first class");
+}
+else
+{
+
+     system.out.println("fail");
+}
